@@ -4,7 +4,7 @@
   "description": "This is a static web site",
   "main": "index.html",
   "scripts": {
-    "serve": "live-server --verbose --ignore README.md ."
+    "serve": "live-server --verbose --ignore=README.md ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/satellite-of-love/shavalottayaks/issues"
   },
-  "homepage": "https://github.com/satellite-of-love/shavalottayaks#readme"
+  "homepage": "https://github.com/satellite-of-love/shavalottayaks#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
 }
