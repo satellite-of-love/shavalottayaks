@@ -1,5 +1,9 @@
 body {
-    font-family: "Arial", sans-serif;
+    font-family: fantasy;
     background-color:#9ceffd;
     text-align: center;
+}
+
+h1 {
+    color: #cbb86b;
 }
