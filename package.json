@@ -1,0 +1,19 @@
+{
+  "name": "shavalottayaks",
+  "version": "1.0.0",
+  "description": "This is a static web site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satellite-of-love/shavalottayaks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satellite-of-love/shavalottayaks/issues"
+  },
+  "homepage": "https://github.com/satellite-of-love/shavalottayaks#readme"
+}
