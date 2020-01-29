@@ -1,6 +1,6 @@
 # A static web site
 
-about yaks 
+about yak shaving. Yak shaving is fun.
 
 Here it is live: https://satellite-of-love.github.io/shavalottayaks/
 
